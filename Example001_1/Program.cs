@@ -1,4 +1,5 @@
-﻿using System;
+﻿//  Решение задачи №2 (на вход два числа,на выход макс и мин)
+using System;
 
 public class MyProgram
 {
