@@ -1,0 +1,15 @@
+C:\Users\sjagi\OneDrive\Desktop\Example3\Example001_1\bin\Debug\net6.0\Example001_1.exe
+C:\Users\sjagi\OneDrive\Desktop\Example3\Example001_1\bin\Debug\net6.0\Example001_1.deps.json
+C:\Users\sjagi\OneDrive\Desktop\Example3\Example001_1\bin\Debug\net6.0\Example001_1.runtimeconfig.json
+C:\Users\sjagi\OneDrive\Desktop\Example3\Example001_1\bin\Debug\net6.0\Example001_1.dll
+C:\Users\sjagi\OneDrive\Desktop\Example3\Example001_1\bin\Debug\net6.0\Example001_1.pdb
+C:\Users\sjagi\OneDrive\Desktop\Example3\Example001_1\obj\Debug\net6.0\Example001_1.csproj.AssemblyReference.cache
+C:\Users\sjagi\OneDrive\Desktop\Example3\Example001_1\obj\Debug\net6.0\Example001_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjagi\OneDrive\Desktop\Example3\Example001_1\obj\Debug\net6.0\Example001_1.AssemblyInfoInputs.cache
+C:\Users\sjagi\OneDrive\Desktop\Example3\Example001_1\obj\Debug\net6.0\Example001_1.AssemblyInfo.cs
+C:\Users\sjagi\OneDrive\Desktop\Example3\Example001_1\obj\Debug\net6.0\Example001_1.csproj.CoreCompileInputs.cache
+C:\Users\sjagi\OneDrive\Desktop\Example3\Example001_1\obj\Debug\net6.0\Example001_1.dll
+C:\Users\sjagi\OneDrive\Desktop\Example3\Example001_1\obj\Debug\net6.0\refint\Example001_1.dll
+C:\Users\sjagi\OneDrive\Desktop\Example3\Example001_1\obj\Debug\net6.0\Example001_1.pdb
+C:\Users\sjagi\OneDrive\Desktop\Example3\Example001_1\obj\Debug\net6.0\Example001_1.genruntimeconfig.cache
+C:\Users\sjagi\OneDrive\Desktop\Example3\Example001_1\obj\Debug\net6.0\ref\Example001_1.dll
