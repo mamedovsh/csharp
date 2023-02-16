@@ -1,0 +1,15 @@
+C:\Users\sjagi\OneDrive\Desktop\Example3\.vscode\Example003\obj\Debug\net6.0\Example003.csproj.AssemblyReference.cache
+C:\Users\sjagi\OneDrive\Desktop\Example3\.vscode\Example003\obj\Debug\net6.0\Example003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjagi\OneDrive\Desktop\Example3\.vscode\Example003\obj\Debug\net6.0\Example003.AssemblyInfoInputs.cache
+C:\Users\sjagi\OneDrive\Desktop\Example3\.vscode\Example003\obj\Debug\net6.0\Example003.AssemblyInfo.cs
+C:\Users\sjagi\OneDrive\Desktop\Example3\.vscode\Example003\obj\Debug\net6.0\Example003.csproj.CoreCompileInputs.cache
+C:\Users\sjagi\OneDrive\Desktop\Example3\.vscode\Example003\bin\Debug\net6.0\Example003.exe
+C:\Users\sjagi\OneDrive\Desktop\Example3\.vscode\Example003\bin\Debug\net6.0\Example003.deps.json
+C:\Users\sjagi\OneDrive\Desktop\Example3\.vscode\Example003\bin\Debug\net6.0\Example003.runtimeconfig.json
+C:\Users\sjagi\OneDrive\Desktop\Example3\.vscode\Example003\bin\Debug\net6.0\Example003.dll
+C:\Users\sjagi\OneDrive\Desktop\Example3\.vscode\Example003\bin\Debug\net6.0\Example003.pdb
+C:\Users\sjagi\OneDrive\Desktop\Example3\.vscode\Example003\obj\Debug\net6.0\Example003.dll
+C:\Users\sjagi\OneDrive\Desktop\Example3\.vscode\Example003\obj\Debug\net6.0\refint\Example003.dll
+C:\Users\sjagi\OneDrive\Desktop\Example3\.vscode\Example003\obj\Debug\net6.0\Example003.pdb
+C:\Users\sjagi\OneDrive\Desktop\Example3\.vscode\Example003\obj\Debug\net6.0\Example003.genruntimeconfig.cache
+C:\Users\sjagi\OneDrive\Desktop\Example3\.vscode\Example003\obj\Debug\net6.0\ref\Example003.dll
